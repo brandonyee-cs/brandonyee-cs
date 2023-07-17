@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @brandonyee-cs
+- 👀 I’m interested in Computer Science.
+- 🌱 I’m currently learning Python.
+- 💞️ I’m looking to collaborate on any simple Python projects.
+- 📫 How to reach me @ brandonyee.nyc@gmail.com
