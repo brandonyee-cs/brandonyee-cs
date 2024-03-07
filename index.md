@@ -1,7 +1,7 @@
 ---
-title: PAGE TITLE HERE
-layout: template
-filename: NAME OF THIS .md FILE HERE
+title: Portfolio
+layout: default
+filename: index.md
 --- 
 📫 How to reach me: @[brandonyee.nyc@gmail.com](mailto:brandonyee.nyc@gmail.com), [LinkedIn](https://www.linkedin.com/in/brandon-yee-0b335a284/), or [GitHub](https://github.com/brandonyee-cs)
 
