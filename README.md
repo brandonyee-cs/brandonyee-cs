@@ -1,4 +1,4 @@
-📫 How to reach me: @[brandonyee.nyc@gmail.com](mailto:brandonyee.nyc@gmail.com) or [LinkedIn](https://www.linkedin.com/in/brandon-yee-0b335a284/)
+📫 How to reach me: @[brandonyee.nyc@gmail.com](mailto:brandonyee.nyc@gmail.com), [LinkedIn](https://www.linkedin.com/in/brandon-yee-0b335a284/), or [GitHub](https://github.com/brandonyee-cs)
 
 ## Introduction
 
