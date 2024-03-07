@@ -1,3 +1,7 @@
+---
+[Home](https://brandonyee-cs.github.io/Brandon-Yee/)
+[Projects]()
+--- 
 📫 How to reach me: @[brandonyee.nyc@gmail.com](mailto:brandonyee.nyc@gmail.com), [LinkedIn](https://www.linkedin.com/in/brandon-yee-0b335a284/), or [GitHub](https://github.com/brandonyee-cs)
 
 ## Introduction
