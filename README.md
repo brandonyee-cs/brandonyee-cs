@@ -1,4 +1,4 @@
-<img align="right" alt="LinkedIn" width="20px" style="padding-right:20px;" src="https://devicon-website.vercel.app/api/linkedin/original.svg" />
+[<img align="right" alt="LinkedIn" width="20px" style="padding-right:20px;" src="https://devicon-website.vercel.app/api/linkedin/original.svg" />](https://www.linkedin.com/in/brandon-yee-0b335a284/)
 
 # Brandon Yee
 
