@@ -24,8 +24,7 @@ I’m Brandon Yee, a Chinese American Sophomore at Weston High School. Ever sinc
 <img align="left" alt="Linux" width="50px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <br />
 
-# 
-
+---
 ### 📚 Libraries 
 <img align="left" alt="PyTorch" width="50px" style="padding-right:20px;" src="https://devicon-website.vercel.app/api/pytorch/original.svg" />
 <img align="left" alt="TensorFlow" width="50px" style="padding-right:20px;" src="https://devicon-website.vercel.app/api/tensorflow/original.svg" />
@@ -38,8 +37,7 @@ I’m Brandon Yee, a Chinese American Sophomore at Weston High School. Ever sinc
 <img align="left" alt="OpenCV" width="30px" style="padding-right:20px;" src="https://devicon-website.vercel.app/api/opencv/original.svg" />
 <br />
 
-# 
-
+---
 ### 🔧 Hosting and Tools
 <img align="left" alt="VS Code" width="50px" style="padding-right:20px;" src="https://devicon-website.vercel.app/api/vscode/original.svg" />
 <img align="left" alt="Pycharm" width="50px" style="padding-right:20px;" src="https://devicon-website.vercel.app/api/pycharm/original.svg" />
@@ -52,12 +50,7 @@ I’m Brandon Yee, a Chinese American Sophomore at Weston High School. Ever sinc
 <img align="left" alt="Photoshop" width="50px" style="padding-right:20px;" src="https://devicon-website.vercel.app/api/photoshop/plain.svg" />
 <br />
 
-#
-
+---
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=brandonyee-cs&show_icons=true&theme=gruvbox)
-
-#
-
-
+![Brandon's GitHub stats](https://github-readme-stats.vercel.app/api?username=brandonyee-cs&show_icons=true&theme=gruvbox)
