@@ -12,7 +12,7 @@ I’m Brandon Yee, a Chinese American Sophomore at Weston High School. Ever sinc
 <img align="left" alt="C++" width="50px" style="padding-right:20px;" src="https://devicon-website.vercel.app/api/cplusplus/original.svg" />
 <img align="left" alt="HTML" width="50px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="50px" style="padding-right:20px;" src="https://devicon-website.vercel.app/api/vscode/original.svg" />
-<img align="left" alt="Markdown" width="50px" style="padding-right:20px;" src="https://devicon-website.vercel.app/api/markdown/original.svg" />
+<img align="left" alt="Markdown" width="50px" style="padding-right:20px;" src="icons8-markdown-50.png" />
 <img align="left" alt="VS Code" width="50px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="Windows" width="50px" style="padding-right:20px;" src="https://devicon-website.vercel.app/api/windows8/original.svg" />
 <img align="left" alt="Ubuntu" width="50px" style="padding-right:20px;" src="https://devicon-website.vercel.app/api/ubuntu/plain.svg" />
@@ -22,14 +22,14 @@ I’m Brandon Yee, a Chinese American Sophomore at Weston High School. Ever sinc
 <img align="left" alt="Bash" width="50px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
 
-#
+# 
 
-<div align = 'center'>
-| LIBRARIES | HOSTING | DESIGN|
-|:---:|:---:|:---:|
-| 
+### 📚 Libraries 
 
-</div>
+<img align="left" alt="Numpy" width="50px" style="padding-right:20px;" src="https://devicon-website.vercel.app/api/numpy/original.svg" />
+<img align="left" alt="OpenCV" width="50px" style="padding-right:20px;" src="https://devicon-website.vercel.app/api/opencv/original.svg" />
+<img align="left" alt="Pandas" width="50px" style="padding-right:20px;" src="https://devicon-website.vercel.app/api/pandas/original.svg" />
+<img align="left" alt="PyTorch" width="50px" style="padding-right:20px;" src="https://devicon-website.vercel.app/api/pytorch/original.svg" />
 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brandonyee-cs&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
