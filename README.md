@@ -16,7 +16,7 @@ I’m Brandon Yee, a Chinese American Sophomore at Weston High School. Ever sinc
 <img align="left" alt="C++" width="50px" style="padding-right:20px;" src="https://devicon-website.vercel.app/api/cplusplus/original.svg" />
 <img align="left" alt="HTML" width="50px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="50px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="Markdown" width="50px" style="padding-right:20px;" src="icons8-markdown-50.png" />
+<img align="left" alt="Markdown" width="50px" style="padding-right:20px;" src="Resources/icons8-markdown-50.png" />
 <img align="left" alt="Bash" width="50px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <img align="left" alt="Git" width="50px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Windows" width="50px" style="padding-right:20px;" src="https://devicon-website.vercel.app/api/windows8/original.svg" />
@@ -29,12 +29,12 @@ I’m Brandon Yee, a Chinese American Sophomore at Weston High School. Ever sinc
 ### 📚 Libraries 
 <img align="left" alt="PyTorch" width="50px" style="padding-right:20px;" src="https://devicon-website.vercel.app/api/pytorch/original.svg" />
 <img align="left" alt="TensorFlow" width="50px" style="padding-right:20px;" src="https://devicon-website.vercel.app/api/tensorflow/original.svg" />
-<img align="left" alt="Keras" width="50px" style="padding-right:20px;" src="images (2).png" />
-<img align="left" alt="Matplotlib" width="50px" style="padding-right:20px;" src="1200px-Matplotlib_icon.svg.png" />
-<img align="left" alt="Scikit-Learn" width="75px" style="padding-right:20px;" src="6509efddfa9968dfc2e4a59c_scikit-learn-logo-notext-1.png" />
-<img align="left" alt="Scikit-Image" width="50px" style="padding-right:20px;" src="logo (1).png" />
+<img align="left" alt="Keras" width="50px" style="padding-right:20px;" src="Resources/images (2).png" />
+<img align="left" alt="Matplotlib" width="50px" style="padding-right:20px;" src="Resources/1200px-Matplotlib_icon.svg.png" />
+<img align="left" alt="Scikit-Learn" width="65px" style="padding-right:20px;" src="Resources/6509efddfa9968dfc2e4a59c_scikit-learn-logo-notext-1.png" />
+<img align="left" alt="Scikit-Image" width="50px" style="padding-right:20px;" src="Resources/logo (1).png" />
 <img align="left" alt="Numpy" width="50px" style="padding-right:20px;" src="https://devicon-website.vercel.app/api/numpy/original.svg" />
-<img align="left" alt="Pandas" width="50px" style="padding-right:20px;" src="favicon_white.ico" />
+<img align="left" alt="Pandas" width="50px" style="padding-right:20px;" src="Resources/favicon_white.ico" />
 <img align="left" alt="OpenCV" width="50px" style="padding-right:20px;" src="https://devicon-website.vercel.app/api/opencv/original.svg" />
 </br>
 
@@ -44,9 +44,9 @@ I’m Brandon Yee, a Chinese American Sophomore at Weston High School. Ever sinc
 <img align="left" alt="VS Code" width="50px" style="padding-right:20px;" src="https://devicon-website.vercel.app/api/vscode/original.svg" />
 <img align="left" alt="Pycharm" width="50px" style="padding-right:20px;" src="https://devicon-website.vercel.app/api/pycharm/original.svg" />
 <img align="left" alt="Jupyter" width="50px" style="padding-right:20px;" src="https://devicon-website.vercel.app/api/jupyter/original.svg" />
-<img align="left" alt="GitHub" width="50px" style="padding-right:20px;" src="icons8-github-64.png" />
+<img align="left" alt="GitHub" width="50px" style="padding-right:20px;" src="Resources/icons8-github-64.png" />
 <img align="left" alt="Redis" width="50px" style="padding-right:20px;" src="https://devicon-website.vercel.app/api/redis/original.svg" />
-<img align="left" alt="Netlify" width="50px" style="padding-right:20px;" src="netlify-icon-511x512-idkvcd89.png" />
+<img align="left" alt="Netlify" width="50px" style="padding-right:20px;" src="Resources/netlify-icon-511x512-idkvcd89.png" />
 <img align="left" alt="Figma" width="50px" style="padding-right:20px;" src="https://devicon-website.vercel.app/api/figma/original.svg" />
 <img align="left" alt="Canva" width="50px" style="padding-right:20px;" src="https://devicon-website.vercel.app/api/canva/original.svg" />
 <img align="left" alt="Photoshop" width="50px" style="padding-right:20px;" src="https://devicon-website.vercel.app/api/photoshop/plain.svg" />
