@@ -22,9 +22,10 @@ I’m Brandon Yee, a Chinese American Sophomore at Weston High School. Ever sinc
 <img align="left" alt="Windows" width="50px" style="padding-right:20px;" src="https://devicon-website.vercel.app/api/windows8/original.svg" />
 <img align="left" alt="Ubuntu" width="50px" style="padding-right:20px;" src="https://devicon-website.vercel.app/api/ubuntu/plain.svg" />
 <img align="left" alt="Linux" width="50px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<br />
+</br>
 
----
+#
+
 ### 📚 Libraries 
 <img align="left" alt="PyTorch" width="50px" style="padding-right:20px;" src="https://devicon-website.vercel.app/api/pytorch/original.svg" />
 <img align="left" alt="TensorFlow" width="50px" style="padding-right:20px;" src="https://devicon-website.vercel.app/api/tensorflow/original.svg" />
@@ -32,13 +33,14 @@ I’m Brandon Yee, a Chinese American Sophomore at Weston High School. Ever sinc
 <img align="left" alt="Matplotlib" width="50px" style="padding-right:20px;" src="1200px-Matplotlib_icon.svg.png" />
 <img align="left" alt="Scikit-Learn" width="75px" style="padding-right:20px;" src="6509efddfa9968dfc2e4a59c_scikit-learn-logo-notext-1.png" />
 <img align="left" alt="Scikit-Image" width="50px" style="padding-right:20px;" src="logo (1).png" />
-<img align="left" alt="Numpy" width="30px" style="padding-right:20px;" src="https://devicon-website.vercel.app/api/numpy/original.svg" />
-<img align="left" alt="Pandas" width="30px" style="padding-right:20px;" src="favicon_white.ico" />
-<img align="left" alt="OpenCV" width="30px" style="padding-right:20px;" src="https://devicon-website.vercel.app/api/opencv/original.svg" />
-<br />
+<img align="left" alt="Numpy" width="50px" style="padding-right:20px;" src="https://devicon-website.vercel.app/api/numpy/original.svg" />
+<img align="left" alt="Pandas" width="50px" style="padding-right:20px;" src="favicon_white.ico" />
+<img align="left" alt="OpenCV" width="50px" style="padding-right:20px;" src="https://devicon-website.vercel.app/api/opencv/original.svg" />
+</br>
 
----
-### 🔧 Hosting and Tools
+#
+
+### 🔧 Hosting Services and Tools
 <img align="left" alt="VS Code" width="50px" style="padding-right:20px;" src="https://devicon-website.vercel.app/api/vscode/original.svg" />
 <img align="left" alt="Pycharm" width="50px" style="padding-right:20px;" src="https://devicon-website.vercel.app/api/pycharm/original.svg" />
 <img align="left" alt="Jupyter" width="50px" style="padding-right:20px;" src="https://devicon-website.vercel.app/api/jupyter/original.svg" />
@@ -50,7 +52,8 @@ I’m Brandon Yee, a Chinese American Sophomore at Weston High School. Ever sinc
 <img align="left" alt="Photoshop" width="50px" style="padding-right:20px;" src="https://devicon-website.vercel.app/api/photoshop/plain.svg" />
 <br />
 
----
+#
+
 ### 📊 Stats
 
 ![Brandon's GitHub stats](https://github-readme-stats.vercel.app/api?username=brandonyee-cs&show_icons=true&theme=gruvbox)
