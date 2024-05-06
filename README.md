@@ -31,7 +31,7 @@ I’m Brandon Yee, a Chinese American Sophomore at Weston High School. Ever sinc
 <img align="left" alt="TensorFlow" width="50px" style="padding-right:20px;" src="https://devicon-website.vercel.app/api/tensorflow/original.svg" />
 <img align="left" alt="Keras" width="50px" style="padding-right:20px;" src="images (2).png" />
 <img align="left" alt="Matplotlib" width="50px" style="padding-right:20px;" src="1200px-Matplotlib_icon.svg.png" />
-<img align="left" alt="Scikit-Learn" width="750px" style="padding-right:20px;" src="6509efddfa9968dfc2e4a59c_scikit-learn-logo-notext-1.png" />
+<img align="left" alt="Scikit-Learn" width="75px" style="padding-right:20px;" src="6509efddfa9968dfc2e4a59c_scikit-learn-logo-notext-1.png" />
 <img align="left" alt="Scikit-Image" width="50px" style="padding-right:20px;" src="logo (1).png" />
 <img align="left" alt="Numpy" width="30px" style="padding-right:20px;" src="https://devicon-website.vercel.app/api/numpy/original.svg" />
 <img align="left" alt="Pandas" width="30px" style="padding-right:20px;" src="favicon_white.ico" />
