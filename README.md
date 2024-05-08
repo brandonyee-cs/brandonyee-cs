@@ -27,7 +27,7 @@ I’m Brandon Yee, a Chinese American Sophomore at Weston High School. Ever sinc
 #
 
 ### 📚 Libraries 
-<img align="left" alt="Django" width="50px" style="padding-right:20px;" src="https://img.icons8.com/external-tal-revivo-bold-tal-revivo/24/FFFFFF/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-bold-tal-revivo.png" alt="external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-bold-tal-revivo" />
+<img align="left" alt="Django" width="50px" style="padding-right:20px;" src="https://img.icons8.com/material-outlined/24/FFFFFF/django.png" />
 <img align="left" alt="Flask" width="50px" style="padding-right:20px;" src="https://img.icons8.com/ios-filled/50/FFFFFF/flask.png" />
 <img align="left" alt="PyTorch" width="50px" style="padding-right:20px;" src="https://devicon-website.vercel.app/api/pytorch/original.svg" />
 <img align="left" alt="TensorFlow" width="50px" style="padding-right:20px;" src="https://devicon-website.vercel.app/api/tensorflow/original.svg" />
