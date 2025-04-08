@@ -1,59 +1,77 @@
-[<img align="right" alt="LinkedIn" width="20px" style="padding-right:20px;" src="https://devicon-website.vercel.app/api/linkedin/original.svg" />](https://www.linkedin.com/in/brandon-yee-0b335a284/)
-
 # Brandon Yee
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Brandon%20Yee-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/brandon-yee-0b335a284/)
 
-### About Me
-
-I’m Brandon Yee, a Chinese American Junior at Weston High School. Ever since my childhood, I have had a yearning to solve problems; whether it was the allure of the Rubix Cube or the difficulty in fixing an issue on my computer, I have always enjoyed spending countless hours fixing my own issues. Coding and software engineering is my medium to do so as a career; with coding, I can not only solve my own problems but also create solutions to problems bigger than myself and give back to the world. I want to pursue software engineering in college and combine this passion with my passion for finance to dual-major in computer science and finance.
+*Aspiring Software Engineer | High School Junior exploring the intersection of Computer Science and Finance*
 
 ---
-### 🧰 Languages and Operating Systems
 
-<img align="left" alt="Python" width="50px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="Matlab" width="50px" style="padding-right:20px;" src="https://devicon-website.vercel.app/api/matlab/original.svg" />
-<img align="left" alt="JavaScript" width="50px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="C++" width="50px" style="padding-right:20px;" src="https://devicon-website.vercel.app/api/cplusplus/original.svg" />
-<img align="left" alt="HTML" width="50px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="50px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="Markdown" width="50px" style="padding-right:20px;" src="Resources/icons8-markdown-50.png" />
-<img align="left" alt="Bash" width="50px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<img align="left" alt="Git" width="50px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Windows" width="50px" style="padding-right:20px;" src="https://devicon-website.vercel.app/api/windows8/original.svg" />
-<img align="left" alt="Ubuntu" width="50px" style="padding-right:20px;" src="https://devicon-website.vercel.app/api/ubuntu/plain.svg" />
-<img align="left" alt="Linux" width="50px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-</br>
+## 👋 About Me
 
-#
+I'm Brandon Yee, a driven high school junior (Class of 2026) from Weston High School with a deep-seated passion for problem-solving through technology. Ever since childhood, I've been captivated by challenges – from the logic of a Rubik's Cube to troubleshooting computer issues.
 
-### 📚 Libraries 
-<img align="left" alt="PyTorch" width="50px" style="padding-right:20px;" src="https://devicon-website.vercel.app/api/pytorch/original.svg" />
-<img align="left" alt="TensorFlow" width="50px" style="padding-right:20px;" src="https://devicon-website.vercel.app/api/tensorflow/original.svg" />
-<img align="left" alt="Keras" width="50px" style="padding-right:20px;" src="Resources/images (2).png" />
-<img align="left" alt="Matplotlib" width="50px" style="padding-right:20px;" src="Resources/1200px-Matplotlib_icon.svg.png" />
-<img align="left" alt="Scikit-Learn" width="65px" style="padding-right:20px;" src="Resources/6509efddfa9968dfc2e4a59c_scikit-learn-logo-notext-1.png" />
-<img align="left" alt="Scikit-Image" width="50px" style="padding-right:20px;" src="Resources/logo (1).png" />
-<img align="left" alt="Numpy" width="50px" style="padding-right:20px;" src="https://devicon-website.vercel.app/api/numpy/original.svg" />
-<img align="left" alt="Pandas" width="50px" style="padding-right:20px;" src="Resources/favicon_white.ico" />
-<img align="left" alt="OpenCV" width="50px" style="padding-right:20px;" src="https://devicon-website.vercel.app/api/opencv/original.svg" />
-</br>
+Coding and software engineering are the avenues through which I channel this drive. I'm fascinated by the power of software to not only solve intricate problems but also to create impactful solutions that can benefit others.
 
-#
+My academic goal is to pursue a dual major in **Computer Science** and **Finance**. I'm excited by the potential to leverage computational thinking and software development skills within the dynamic world of finance, creating innovative tools and tackling complex financial challenges.
 
-### 🔧 Hosting Services and Tools
-<img align="left" alt="VS Code" width="50px" style="padding-right:20px;" src="https://devicon-website.vercel.app/api/vscode/original.svg" />
-<img align="left" alt="Pycharm" width="50px" style="padding-right:20px;" src="https://devicon-website.vercel.app/api/pycharm/original.svg" />
-<img align="left" alt="Jupyter" width="50px" style="padding-right:20px;" src="https://devicon-website.vercel.app/api/jupyter/original.svg" />
-<img align="left" alt="GitHub" width="50px" style="padding-right:20px;" src="Resources/icons8-github-64.png" />
-<img align="left" alt="Redis" width="50px" style="padding-right:20px;" src="https://devicon-website.vercel.app/api/redis/original.svg" />
-<img align="left" alt="Netlify" width="50px" style="padding-right:20px;" src="Resources/netlify-icon-511x512-idkvcd89.png" />
-<img align="left" alt="Figma" width="50px" style="padding-right:20px;" src="https://devicon-website.vercel.app/api/figma/original.svg" />
-<img align="left" alt="Canva" width="50px" style="padding-right:20px;" src="https://devicon-website.vercel.app/api/canva/original.svg" />
-<img align="left" alt="Photoshop" width="50px" style="padding-right:20px;" src="https://devicon-website.vercel.app/api/photoshop/plain.svg" />
-<br />
+I'm actively building my technical foundation and always eager to learn new technologies and contribute to meaningful projects.
 
-#
+---
 
-### 📊 Stats
+## 🛠️ Tech Stack & Tools
 
-![Brandon's GitHub stats](https://github-readme-stats.vercel.app/api?username=brandonyee-cs&show_icons=true&theme=gruvbox)
+Here's a snapshot of the technologies I've been working with:
+
+**Languages:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white)
+
+**Data Science & Machine Learning:**
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat&logo=matplotlib&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+<!-- Note: Scikit-Image doesn't have a standard logo on Shields.io, kept OpenCV etc. -->
+
+**Development & Collaboration Tools:**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+
+**Design & Other Tools:**
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
+
+**Operating Systems:**
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=brandonyee-cs&show_icons=true&theme=gruvbox&count_private=true&hide_border=true" alt="Brandon's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brandonyee-cs&layout=compact&theme=gruvbox&hide_border=true" alt="Brandon's Top Languages" />
+</p>
+
+---
+
+## 📫 Get In Touch
+
+*   **LinkedIn:** [linkedin.com/in/brandon-yee-0b335a284/](https://www.linkedin.com/in/brandon-yee-0b335a284/)
+*   Feel free to connect or reach out if you'd like to collaborate or chat about tech and finance!
